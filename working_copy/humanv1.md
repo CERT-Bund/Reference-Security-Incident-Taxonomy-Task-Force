@@ -35,8 +35,9 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 | Availability | DDoS | Distributed Denial of Service attack, e.g. SYN-Flood or UDP-based reflection/amplification attacks. |
 | Availability | Sabotage | Physical sabotage, e.g cutting wires or malicious arson. |
 | Availability | Outage | Outage (no malice) caused e.g. by air condition failure or natural disaster. |
-| Information Content Security | Unauthorised access to information | Besides local abuse of data and systems, the security of information can be endangered by successful compromise of an account or application. In addition, attacks that intercept and access information during transmission (wiretapping, spoofing or hijacking) are possible.  Human/configuration/software error can also be the cause. |
-| Information Content Security | Unauthorised modification of information | see 'Unauthorised access to information' |
+| Information Content Security | Unauthorised access to information | Unauthorized access to information, e.g. by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents. |
+| Information Content Security | Unauthorised modification of information | Unauthorised modification of information, e.g. by an attacker abusing stolen login credentials for a system or application or a ransomware encrypting data. |
+| Information Content Security | Data Loss | Loss of data, e.g. caused by harddisk failure or physical theft. |
 | Fraud | Unauthorized use of resources | Using resources for unauthorized purposes including profit-making ventures, e.g. the use of e-mail to participate in illegal profit chain letters or pyramid schemes. |
 | Fraud | Copyright | Offering or Installing copies of unlicensed commercial software or other copyright protected materials (Warez). |
 | Fraud | Masquerade | Type of attack in which one entity illegitimately impersonates the identity of another in order to benefit from it. |

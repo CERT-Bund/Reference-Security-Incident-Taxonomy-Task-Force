@@ -31,10 +31,10 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 | Intrusions | Unprivileged Account Compromise | see 'Privileged Account Compromise' |
 | Intrusions | Application Compromise | see 'Privileged Account Compromise' |
 | Intrusions | Bot | see 'Privileged Account Compromise' |
-| Availability | DoS | Denial of Service. |
-| Availability | DDoS | Distributed Denial of Service. |
-| Availability | Sabotage | Sabotage. |
-| Availability | Outage | Outage (no malice). |
+| Availability | DoS | Denial of Service attack, e.g. sending specially crafted requests to a web application which causes the application to crash or slow down. |
+| Availability | DDoS | Distributed Denial of Service attack, e.g. SYN-Flood or UDP-based reflection/amplification attacks. |
+| Availability | Sabotage | Physical sabotage, e.g cutting wires or malicious arson. |
+| Availability | Outage | Outage (no malice) caused e.g. by air condition failure or natural disaster. |
 | Information Content Security | Unauthorised access to information | Besides local abuse of data and systems, the security of information can be endangered by successful compromise of an account or application. In addition, attacks that intercept and access information during transmission (wiretapping, spoofing or hijacking) are possible.  Human/configuration/software error can also be the cause. |
 | Information Content Security | Unauthorised modification of information | see 'Unauthorised access to information' |
 | Fraud | Unauthorized use of resources | Using resources for unauthorized purposes including profit-making ventures, e.g. the use of e-mail to participate in illegal profit chain letters or pyramid schemes. |

@@ -27,10 +27,10 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 | Intrusion Attempts | Exploitation of known Vulnerabilities | An attempt to compromise a system or to disrupt any service by exploiting vulnerabilities with a standardised identifier such as CVE name (e.g. buffer overflow, backdoor, cross site scripting, etc.) |
 | Intrusion Attempts | Login attempts | Multiple login attempts (Guessing / cracking of passwords, brute force). |
 | Intrusion Attempts | New attack signature | An attack using an unknown exploit. |
-| Intrusions | Privileged Account Compromise | A successful compromise of a system or application (service). This can have been caused remotely by a known or new vulnerability, but also by an unauthorized local access. Also includes being part of a botnet. |
-| Intrusions | Unprivileged Account Compromise | see 'Privileged Account Compromise' |
-| Intrusions | Application Compromise | see 'Privileged Account Compromise' |
-| Intrusions | Bot | see 'Privileged Account Compromise' |
+| Intrusions | Privileged Account Compromise | Compromise of a system where the attacker gained administrative privileges. |
+| Intrusions | Unprivileged Account Compromise | Compromise of a system using an unprivileged (user/service) account. |
+| Intrusions | Application Compromise | Compromise of an application by exploiting (un)known software vulnerabilities, e.g. SQL injection. |
+| Intrusions | Burglary | Physical intrusion, e.g. into corporate building or data center. |
 | Availability | DoS | Denial of Service attack, e.g. sending specially crafted requests to a web application which causes the application to crash or slow down. |
 | Availability | DDoS | Distributed Denial of Service attack, e.g. SYN-Flood or UDP-based reflection/amplification attacks. |
 | Availability | Sabotage | Physical sabotage, e.g cutting wires or malicious arson. |
